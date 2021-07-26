@@ -27,4 +27,4 @@ You can leverage multiple NLP libraries like nltk, spacy etc.
 
 ## Submission 
 
-Final submission file would contain a field mentioning sentiment POSITIVE, NEGATIVE, NEUTRAL.
+Final submission file would contain a field mentioning sentiment POSITIVE, NEGATIVE, NEUTRAL and share the github link of the project. 
